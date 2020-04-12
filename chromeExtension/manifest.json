@@ -1,0 +1,10 @@
+{
+    "name": "Covid 19",
+    "version": "1.0",
+    "description": "COVID TRACKER",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "COVID TRACKER",
+        "default_popup" : "popup.html"
+    }
+  }
